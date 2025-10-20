@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/synbee">
+  <a href="https://github.com/itsjustarsh">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF77FF&center=true&vCenter=true&width=600&lines=Welcome+gang;" alt="Typing Animation" />
   </a>
 </p>
@@ -12,8 +12,8 @@
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=synbee&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=synbee&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsjustarsh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjustarsh&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
